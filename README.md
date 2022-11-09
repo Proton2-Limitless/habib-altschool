@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineeer at AltSchool
+I'm a Backend Software Engineeer at AltSchool
 
 **Here's a quick summary about me**:
 
